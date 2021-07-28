@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# App for simple Video Chatting made with Express, Nodemon, Socket.io and React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
